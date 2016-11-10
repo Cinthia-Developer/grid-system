@@ -1,1 +1,101 @@
 /* Inserta tu código aqui */
+.negro1 .col-3{
+    background-color: black;
+}
+.negro1 .col-9{
+    background-color: black;
+    height: 164px;
+}
+.negro1 .col-9 ul{
+    list-style: none;
+}
+.negro1 .col-9 ul li {
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 15px;
+    padding: 10px 10px;
+    display: inline;
+    
+}
+.negro2 .col-3{
+    background-color:beige;
+}
+.negro2 h3{
+    background-color:beige;
+    padding: 10px 10px 20px 0;
+    text-align: left;
+}
+.negro2 .col-3 h3{
+    background-color:darkgray;
+}
+.negro2 p{
+    font-size: 23px;
+    color:darkblue;
+    text-align: center;
+    padding: 20px 0 20px;
+}
+.negro2 .col-3 img{
+    float: left;
+    width: 210px;
+    border: 1px solid black;
+    margin left: 0;
+    margin-right: 0;
+    overflow: hidden;
+}
+.negro3 .col-9 ul li{
+    width: 120px;
+    display: inline-block;
+    margin: 0 10px 10px 0;
+    vertical-align: top;
+        
+}
+.negro3 .col-9 ul li img{
+    width: 115px;
+    margin: 20px 0 0 0;
+}
+.negro3 .col-9 ul li p{
+    font-size: 20px;
+    color:darkblue;
+    text-align: center;
+}
+.negro4 .col-2 h3{
+    padding-top: 20px;
+    text-align:left;
+    width: 250px;
+    font-size: 25px;
+}
+.negro4 .col-2 hr{
+    width: 220px;
+    height: 4px;
+    background-color: darkgray;
+    margin: 15px 0 10px 0;
+}
+.negro4 .col-2 a{
+    font-size:22px; 
+    margin: 5px 0 5px 0;
+    color: darkblue;
+}
+.negro4 .col-2 p{
+    font-size: 22px;
+    width: 220px
+}
+
+.container a{
+    text-decoration: none;
+    }
+.negro4 .col-2 a{
+    color:darkblue;
+    text-decoration: none;
+    padding: 0;
+}
+.negro4 .col-2 img{
+    width: 20px;
+    
+}
+.negro4 .col-2 a{
+    display: block;
+    font-size: 15px;
+}
+
+
