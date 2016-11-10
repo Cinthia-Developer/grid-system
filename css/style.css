@@ -98,4 +98,37 @@
     font-size: 15px;
 }
 
+.pie{
+    background: gray;
+    display: inline-block;
+    margin: 25px 20px 20px 25px;
+    padding: 40px;
+        
+}
+.pie p{
+    color: azure;
+    font-size: 30px;
+}
+
+.pie li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+   color: azure;
+    font-size: 14px;
+    
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 15px;
+    padding: 10px 10px; 
+    text-decoration: none;
+    
+}
+
+#copyright {
+    font-size:1em;
+    text-align:center; 
+    color: gainsboro;
+}
 
